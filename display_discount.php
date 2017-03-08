@@ -22,7 +22,7 @@ $product_description_escaped = htmlspecialchars($product_description);
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Product Discount Calculator</title>
+    <title>Product Discount</title>
     <link rel="stylesheet" type="text/css" href="main.css">
 </head>
 <body>
